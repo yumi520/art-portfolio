@@ -1,6 +1,8 @@
 "use client"
-import AboutBlurb from "./components/AboutBlurb/aboutBlurb";
-import Explore from "./components/Explore/explore";
+import AboutBlurb from "./components/AboutBlurb/AboutBlurb";
+import CommissionBlurb from "./components/CommissionBlurb/CommissionBlurb";
+import Explore from "./components/Explore/Explore";
+import Footer from "./components/Footer/Footer";
 import Navbar from "./components/Navbar/navbar";
 
 export default function Home() {
@@ -9,6 +11,8 @@ export default function Home() {
       <Navbar/>
       <AboutBlurb/>
       <Explore/>
+      <CommissionBlurb/>
+      <Footer/>
     </div>
   );
 }

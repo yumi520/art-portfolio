@@ -5,6 +5,8 @@ const NavbarWrapper = styled.ul`
   list-style: none;
   padding: 0;
   margin: 0;
+  color: #000000;
+  font-weight: bold;
 
   li {
     padding: 1em;

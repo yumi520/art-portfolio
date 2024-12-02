@@ -20,6 +20,7 @@ export default function aboutBlurb() {
             Mauris condimentum tellus magna, sit amet eleifend massa congue eu."
             buttonText="Read More"
         />
+
     </About>
     );
   }

@@ -20,6 +20,7 @@ export default function mainAbout() {
             Mauris condimentum tellus magna, sit amet eleifend massa congue eu."
             
         />
+
     </About>
     );
   }

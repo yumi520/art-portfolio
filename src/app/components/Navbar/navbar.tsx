@@ -1,13 +1,12 @@
-// import Button from "../ui/button/button.styles";
 import { NavbarWrapper, NavWrapper } from "../ui/navbar/navbar.styles";
 import Image from 'next/image';
 
-export default function Navbar() {
+export default function navbar() {
     return (
     <header>
         <NavWrapper>
         <Image
-            src="/"
+            src="/assets/yumifav48x48 copy.png"
             width={50}
             height={50}
             alt="Picture of the author"
